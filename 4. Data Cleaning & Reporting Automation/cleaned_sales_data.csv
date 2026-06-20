@@ -1,0 +1,11 @@
+OrderID,Customer,Product,Sales,Region
+1001,Rahul,Laptop,50000.0,North
+1002,Priya,Mobile,20000.0,South
+1003,Aman,Monitor,24088.88888888889,East
+1004,Neha,Keyboard,1500.0,West
+1005,Rahul,Laptop,50000.0,North
+1006,Unknown,Printer,15000.0,South
+1007,Riya,Mouse,800.0,Unknown
+1008,Arjun,Headphones,2500.0,East
+1009,Simran,Laptop,55000.0,North
+1010,Karan,Mobile,22000.0,South
